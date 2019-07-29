@@ -1,0 +1,3 @@
+- members:
+  - serviceAccount:cloudbuild@goslash-dev.iam.gserviceaccount.com
+  - user:ivan.liu@goslash.page
